@@ -1,16 +1,30 @@
-### Hi there 👋
+# Привет 👋 Hi there
+## Меня зовут Илья, я - Frontend-разработчик 👨‍💻🌐
 
-<!--
-**poposhka1990/poposhka1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+![фото профиля](./avatar.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+### Контактная информация:
+**E-mail:** popovemail1990@gmail.com
+
+**Telegram:** https://t.me/poposhka1990
+
+***
+
+### Мои проекты:
+1. [Помощник иностранного студента](https://poposhka1990.github.io/international-student-assistant-js/)
+2. [Resource Coffee House](https://rolling-scopes-school.github.io/poposhka1990-JSFE2023Q4/)
+3. [Countries of the World](https://poposhka1990.github.io/4p22-final-project-ilya-popov/)
+
+***
+
+### Навыки:
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,figma,git)](https://skillicons.dev)
+
+***
+
+### Языки:
+* English (Advanced C1)
